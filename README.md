@@ -9,7 +9,8 @@ Esta aplicação consiste em:
 - Implementação o padrão DAO manualmente com JDBC
 
 ## Modelo conceitual
-![Modelo Conceitual](<img width="593" height="190" alt="image" src="https://github.com/user-attachments/assets/50b87965-14eb-4a1b-b18b-015143f4c3d0" />)
+<img width="593" height="190" alt="Captura de tela 2026-03-13 153219" src="https://github.com/user-attachments/assets/b77fd309-c7b4-463e-980d-a716fc2ad8da" />
+
 
 # Tecnologias utilizadas
 - Java
